@@ -1,1 +1,3 @@
-# ninja-react-supasmoothies
+# SupaSmoothies
+
+Project from Net Ninja "Supabase Crash Course".

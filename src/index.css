@@ -100,6 +100,7 @@ form button {
   cursor: pointer;
 }
 
+/* Smoothie card */
 .smoothie-card .buttons {
   text-align: right;
 }
@@ -111,5 +112,17 @@ form button {
   padding: 6px;
   background: #eee;
   border-radius: 50%;
+  cursor: pointer;
+}
+
+/* Order-by buttons */
+.order-by button {
+  margin-right: 10px;
+  background: var(--primary);
+  color: #fff;
+  border: 0;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-family: "Poppins";
   cursor: pointer;
 }
